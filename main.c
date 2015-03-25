@@ -9,5 +9,6 @@ int main(void){
 	{
 		/* code */
 		printf("%d + %d = %d\n", num1, num2, num1+num2);
+		printf("purple\n");
 	}
 }
